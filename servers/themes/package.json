@@ -15,7 +15,7 @@
     "async-mutex": "^0.4.0",
     "cors": "^2.8.5",
     "util": "^0.12.5",
-    "zod": "^3.21.4"
+    "zod": "^3.22.3"
   },
   "devDependencies": {
     "@notesnook/theme": "file:../../packages/theme",
